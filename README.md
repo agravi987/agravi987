@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Basics of Frontend Development**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, MERN Stack , AI Developement**
+- 💬 Ask me about **HTML, CSS, JavaScript, MERN Stack , AI Developement Tools**
 
 - 📫 How to reach me **agpashupati@gmail.com**
 
