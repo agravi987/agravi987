@@ -2,11 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=600&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Ravi+Agrahari;DevOps+%26+Cloud+Engineer;Docker+%7C+K8s+%7C+Terraform" />
 </h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ravi-Agrahari&label=Profile+Views&color=0e75b6&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/Ravi-Agrahari?style=flat-square&logo=github&label=Followers&color=0e75b6" />
-</p>
-
 ---
 
 ### 🚀 Core Arsenal
