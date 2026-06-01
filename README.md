@@ -1,6 +1,26 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=600&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Ravi+Agrahari;DevOps+%26+Cloud+Engineer;Docker+%7C+K8s+%7C+Terraform" />
-</h1>
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=12,20,24,30&text=Hi%20👋,%20I'm%20Ravi%20Agrahari&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20%7C%20Cloud%20%7C%20Automation&descAlignY=60&descSize=20"
+    width="100%"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=DevOps+%26+Cloud+Engineer;Docker+%7C+Kubernetes+%7C+Terraform;AWS+%7C+GitHub+Actions+%7C+Linux"
+    alt="Typing SVG"
+  />
+</p>
+
+
+<p align="center">
+  <img
+    width="100%"
+    alt="DevOps Banner"
+    src="https://github.com/user-attachments/assets/22ca61cd-13e3-4fb7-863f-8790065374eb"
+  />
+</p>
+
 
 ---
 
@@ -25,31 +45,37 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Ravi-Agrahari&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ravi-Agrahari&theme=tokyonight&hide_border=true" />
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=agravi987&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ravi-Agrahari&theme=tokyo-night&hide_border=true&area=true" />
+  <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=agravi987&theme=tokyo-night&hide_border=true&area=true" />
 </p>
-
----
-
-### 🎯 2026 Focus
-
-- ☸️ **CKA Certification** · 🐳 **Advanced Kubernetes**
-- 🏗️ **Terraform Deep Dive** · ☁️ **AWS Solutions Architect**
-- ⚙️ **GitOps (ArgoCD)** · 📊 **Prometheus + Grafana**
 
 ---
 
 ### 🌐 Connect
 
+<h2 align="center">🤝 Let's Connect</h2>
+
 <p align="center">
-  <a href="https://linkedin.com/in/ravi-agrahari-9a653027a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/Ravi-Agrahari"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.hackerrank.com/raviagrahari2021"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/ravi-agrahari-9a653027a">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="55" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://ravi-personal-portfolio-two.vercel.app/">
+    <img src="https://skillicons.dev/icons?i=vercel" height="55" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:agpashupati@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="55" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/agravi987">
+    <img src="https://skillicons.dev/icons?i=github" height="55" />
+  </a>
 </p>
+
 
 ---
 
