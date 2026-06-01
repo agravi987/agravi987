@@ -5,19 +5,19 @@
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=DevOps+%26+Cloud+Engineer;Docker+%7C+Kubernetes+%7C+Terraform;AWS+%7C+GitHub+Actions+%7C+Linux"
-    alt="Typing SVG"
-  />
-</p>
-
 
 <p align="center">
   <img
     width="100%"
     alt="DevOps Banner"
     src="https://github.com/user-attachments/assets/22ca61cd-13e3-4fb7-863f-8790065374eb"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=DevOps+%26+Cloud+Engineer;Docker+%7C+Kubernetes+%7C+Terraform;AWS+%7C+GitHub+Actions+%7C+Linux"
+    alt="Typing SVG"
   />
 </p>
 
